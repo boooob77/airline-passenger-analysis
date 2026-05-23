@@ -27,7 +27,7 @@ The goal was to transform raw airline data into actionable insights through data
 
 ## Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](images/dashboard.png)
 
 ---
 
